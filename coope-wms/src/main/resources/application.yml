@@ -1,6 +1,6 @@
 server:
   port: 8082
-zk.homepage: index
+zk.homepage: material-manager
 spring:
   application:
     name: coope-wms
