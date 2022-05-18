@@ -1,0 +1,7 @@
+<?link rel="stylesheet" href="webjars/bootstrap/4.6.0/css/bootstrap.min.css"?>
+<?link rel="stylesheet" href="resources/css/zk-admin-bootstrap-theme.css"?>
+<?link rel="stylesheet" href="resources/css/layout.css" ?>
+<?link rel="stylesheet" href="resources/css/zk-bootstrap.css" ?>
+<zk>
+   <label value="Servici FrontEnd para WMS"/>
+</zk>

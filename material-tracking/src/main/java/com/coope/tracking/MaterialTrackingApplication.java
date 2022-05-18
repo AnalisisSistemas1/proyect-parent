@@ -1,0 +1,20 @@
+package com.coope.tracking;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+
+/**
+ * User: job
+ * Date: 14/05/22
+ * Time: 08:42
+ *
+ * @author job
+ */
+@SpringBootApplication
+@EnableEurekaClient
+public class MaterialTrackingApplication {
+    public static void main(String [] args){
+        SpringApplication.run(MaterialTrackingApplication.class,args);
+    }
+}

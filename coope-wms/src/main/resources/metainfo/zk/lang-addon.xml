@@ -1,0 +1,9 @@
+<language-addon>
+    <addon-name>admin-addon</addon-name>
+    <version>1.0</version>
+    <language-name>xul/html</language-name>
+
+    <depends>zkmax</depends>
+    <stylesheet href="/css/state-box.css" type="text/css"/>
+    <stylesheet href="/css/info-box.css" type="text/css"/>
+</language-addon>
